@@ -29,6 +29,7 @@ set(USER_INCLUDE_DIRECTORIES
 set(USER_COMPILE_SOURCES
 "platform.c"
 "main.c"
+"led.c"
 )
 
 # -----------------------------------------

@@ -1,0 +1,4 @@
+/home/appletea/workspace_onedevice_2/Vitis/platform_BUTTON/microblaze_riscv_0/standalone_microblaze_riscv_0/bsp/libsrc/build_configs/exmetadata/CMakeFiles/gpio_example.dir
+/home/appletea/workspace_onedevice_2/Vitis/platform_BUTTON/microblaze_riscv_0/standalone_microblaze_riscv_0/bsp/libsrc/build_configs/exmetadata/CMakeFiles/uartlite_example.dir
+/home/appletea/workspace_onedevice_2/Vitis/platform_BUTTON/microblaze_riscv_0/standalone_microblaze_riscv_0/bsp/libsrc/build_configs/exmetadata/CMakeFiles/edit_cache.dir
+/home/appletea/workspace_onedevice_2/Vitis/platform_BUTTON/microblaze_riscv_0/standalone_microblaze_riscv_0/bsp/libsrc/build_configs/exmetadata/CMakeFiles/rebuild_cache.dir

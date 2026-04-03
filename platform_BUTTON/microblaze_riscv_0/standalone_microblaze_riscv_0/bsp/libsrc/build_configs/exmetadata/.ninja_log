@@ -1,0 +1,9 @@
+# ninja log v5
+1	200	0	CMakeFiles/gpio_example	3487de86bd0ca33a
+1	200	0	xgpio_exlist.yaml	3487de86bd0ca33a
+1	200	0	/home/appletea/workspace_onedevice_2/Vitis/platform_BUTTON/microblaze_riscv_0/standalone_microblaze_riscv_0/bsp/libsrc/build_configs/exmetadata/CMakeFiles/gpio_example	3487de86bd0ca33a
+1	200	0	/home/appletea/workspace_onedevice_2/Vitis/platform_BUTTON/microblaze_riscv_0/standalone_microblaze_riscv_0/bsp/libsrc/build_configs/exmetadata/xgpio_exlist.yaml	3487de86bd0ca33a
+1	201	0	CMakeFiles/uartlite_example	b83cc200f0d75d8
+1	201	0	xuartlite_exlist.yaml	b83cc200f0d75d8
+1	201	0	/home/appletea/workspace_onedevice_2/Vitis/platform_BUTTON/microblaze_riscv_0/standalone_microblaze_riscv_0/bsp/libsrc/build_configs/exmetadata/CMakeFiles/uartlite_example	b83cc200f0d75d8
+1	201	0	/home/appletea/workspace_onedevice_2/Vitis/platform_BUTTON/microblaze_riscv_0/standalone_microblaze_riscv_0/bsp/libsrc/build_configs/exmetadata/xuartlite_exlist.yaml	b83cc200f0d75d8

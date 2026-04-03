@@ -1,4 +1,5 @@
 [
   "/home/appletea/workspace_onedevice_2/Vitis/platform_hello/export/platform_hello",
-  "/home/appletea/workspace_onedevice_2/Vitis/platform_LED/export/platform_LED"
+  "/home/appletea/workspace_onedevice_2/Vitis/platform_LED/export/platform_LED",
+  "/home/appletea/workspace_onedevice_2/Vitis/platform_BUTTON/export/platform_BUTTON"
 ]
