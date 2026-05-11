@@ -1,21 +1,50 @@
-# Ignore build output directory
-/build
-/export
+# ===== BUILD OUTPUT =====
+**/build/
+**/export/
 
-# Ignore object files and dependent files
-.o
-.d
+# ===== COMPILED BINARIES =====
+*.elf
+*.elf.size
+*.o
+*.d
+*.bin
+*.pdi
 
-#Ignore logs folder and log files
-/logs
-.log
+# ===== PLATFORM: GENERATED FROM XSA =====
+# BSP (Board Support Package) - XSA로부터 자동 생성, 플랫폼당 ~11MB
+**/microblaze_riscv_0/
+# Platform resources (QEMU, standalone BSP 복사본)
+**/resources/
+# System Device Tree - XSA로부터 자동 생성
+**/hw/sdt/
+# Xilinx 임시 파일
+**/.Xil/
 
-#Ignore lock files
-.lock
+# ===== APP: GENERATED FILES =====
+# 앱 _ide 안의 비트스트림 복사본 (원본은 hw/*.xsa에 포함)
+**/_ide/bitstream/
+**/_ide/hwspec.checksum
+# cmake / clangd 자동 생성
+compile_commands.json
+**/compile_commands.json
+**/src/.cache/
 
-.bin
-.pdi
+# ===== VITIS IDE WORKSPACE STATE =====
+IDE.log
+_ide/logs/
+_ide/.wsdata/
+_ide/.peers.ini
+_ide/.vitisPlatformRepo.json
+_ide/workspace_journal*.py
+# 루트 외 위치의 workspace_journal 파일
+**/workspace_journal*.py
+
+# ===== LOPPER 임시 출력 =====
+.rigel_lopper/
+
+# ===== LOG / LOCK =====
+*.lock
+*.log
+
+# ===== VITIS MISC =====
 .vitisWorkspace.json
-
-_ide/logs
-_ide/.wsdata
